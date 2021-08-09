@@ -1,0 +1,28 @@
+.Headingeringeringer
+{
+    font-size: 25px;
+    width:100%;
+    margin:3px;
+    box-shadow: 5px 5px 5px #888888;
+}
+.btn-yez
+{
+    background-color: blanchedalmond;
+    font-size: 15px;
+    color:black;
+}
+.eringer
+{
+    bottom:0;
+    background-color: blanchedalmond;
+    position:fixed;
+    text-align:center;
+    width:100%;
+    line-height:3;
+}
+canvas
+{
+    border-width:100px;
+    border:blanchedalmond;
+    box-shadow:5px 5px 5px #888888;
+}
